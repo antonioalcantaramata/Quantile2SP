@@ -11,11 +11,14 @@ This repository includes examples for the implementation of "A Quantile Neural N
 
 ## Notes
 
+Pytorch is used for the NN training and Gurobipy for solving the resulting optimization problems.
+
 We thank the authors from Neur2SP (https://github.com/khalil-research/Neur2SP) for providing the original code of the optimization problems. The data in the Opt_problems folder is generated using their repository.
+
 
 ## Reference
 
-Please, cite our paper if you found the ideas or the code useful to your work.
+If you find this work or code useful for your research, please cite our paper:
 
 ```
 @article{alcantara2024quantile,
