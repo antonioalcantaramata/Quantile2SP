@@ -15,6 +15,8 @@ We thank the authors from Neur2SP (https://github.com/khalil-research/Neur2SP) f
 
 ## Reference
 
+Please, cite our paper if you found the ideas or the code useful to your work.
+
 ```
 @article{alcantara2024quantile,
   title={A Quantile Neural Network Framework for Two-stage Stochastic Optimization},
