@@ -13,4 +13,13 @@ This repository includes examples for the implementation of "A Quantile Neural N
 
 We thank the authors from Neur2SP (https://github.com/khalil-research/Neur2SP) for providing the original code of the optimization problems. The data in the Opt_problems folder is generated using their repository.
 
+## Reference
 
+```
+@article{alcantara2024quantile,
+  title={A Quantile Neural Network Framework for Two-stage Stochastic Optimization},
+  author={Alc{\'a}ntara, Antonio and Ruiz, Carlos and Tsay, Calvin},
+  journal={arXiv preprint arXiv:2403.11707},
+  year={2024}
+}
+```
